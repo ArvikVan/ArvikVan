@@ -11,6 +11,13 @@ Java developer<br>
     Сheckstyle, JaCoCo
     Travic CI
 
+### Изучаю
+
+*Cборщик мусора* <br>
+*Типы сборщиков* <br>
+*Профилирование приложений* <br>
+*Soft weak ссылки и коллекции* <br>
+
 ### Пройдено
 *Lambda*<br>
 *Stream API*<br>
