@@ -1,12 +1,12 @@
 ### Привет, меня зовут Арвий 
 Java developer<br> 
-Изучаю java, с наставником, код-ревью и сдачей теоретических и практических экзаменов. В процессе занятий выполнено большое количество практических задач. Со всеми выполненными проектами вы можете ознакомиться в моем github аккаунте
+Изучаю java, с наставником, код-ревью и сдачей теоретических и практических задач. В процессе изучения выполнено их большое количество. Со всеми выполненными проектами вы можете ознакомиться в моем github аккаунте
 
 **Изучаю**
-* Hibernate
+* Spring 
 
 **Пройдено**: 
-Lambda, Stream API, Коллекции Pro, Ввод-вывод, Socket, SQl, JDBC, GC, TDD, SOLID, Threads, Servlet
+Lambda, Stream API, Коллекции Pro, Ввод-вывод, Socket, SQl, JDBC, GC, TDD, SOLID, Threads, Servlet, Hibernate
 
 ### Инструменты
 
@@ -14,6 +14,7 @@ Lambda, Stream API, Коллекции Pro, Ввод-вывод, Socket, SQl, JD
     jUnit
     Git
     IntelliJ Idea
+    NetBeans
     Сheckstyle, JaCoCo
     Travic CI
 
