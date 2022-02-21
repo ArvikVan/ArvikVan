@@ -16,7 +16,7 @@ Lambda, Stream API, Коллекции Pro, Ввод-вывод, Socket, SQl, JD
     IntelliJ Idea
     NetBeans
     Сheckstyle, JaCoCo
-    Travic CI
+    Travis CI, GitHub Actions
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=ArvikVan&show_icons=true&count_private=true">
