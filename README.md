@@ -3,10 +3,10 @@ Java developer<br>
 Изучаю java, с наставником, код-ревью и сдачей теоретических и практических задач. В процессе изучения выполнено их большое количество. Со всеми выполненными проектами вы можете ознакомиться в моем github аккаунте
 
 **Изучаю**
-* Spring 
+* microservices
 
 **Пройдено**: 
-Lambda, Stream API, Коллекции Pro, Ввод-вывод, Socket, SQl, JDBC, GC, TDD, SOLID, Threads, Servlet, Hibernate
+Lambda, Stream API, Коллекции Pro, Ввод-вывод, Socket, SQl, JDBC, GC, TDD, SOLID, Threads, Servlet, Hibernate, Spring
 
 ### Инструменты
 
