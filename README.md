@@ -23,10 +23,11 @@ Lambda, Stream API, Коллекции Pro, Ввод-вывод, Socket, SQl, JD
     Maven
     jUnit
     Git
-    IntelliJ Idea
-    NetBeans
+    IntelliJ Idea/NetBeans
+    Postman
     Сheckstyle, JaCoCo
-    Travis CI, GitHub Actions
+    Travis CI/GitHub Actions
+    Heroku
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=ArvikVan&show_icons=true&count_private=true">
