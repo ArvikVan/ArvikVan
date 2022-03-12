@@ -10,6 +10,7 @@ Lambda, Stream API, Коллекции Pro, Ввод-вывод, Socket, SQl, JD
 
 **Проекты**
 <br>[render_test_task](https://github.com/ArvikVan/farmrender) - (Maven, Spring(boot, security), PostgrsQL/Liquibase)
+<br>[rest_client-demo](https://github.com/ArvikVan/restex) - (Maven, Spring, REST, PostgresQL, Tomcat)
 <br>[vacancy_list](https://github.com/ArvikVan/job4j_dreamjob) - (Maven, JavaEE, JDBC, PostgrsQL, ApacheTomcat)
 <br>[car_accident](https://github.com/ArvikVan/job4j_car_accident) - (Maven, JavaEE/Spring(MVC), Hibernate, PostgrsQL, ApacheTomcat)
 <br>[cinema](https://github.com/ArvikVan/job4j_cinema) - (Maven, JavaEE, JDBC, PostgrsQL, ApacheTomcat, JS)
