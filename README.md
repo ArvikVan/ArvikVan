@@ -8,7 +8,7 @@ Java developer<br>
 * microservices
 
 **Охвачено**: 
-Lambda, Stream API, Коллекции Pro, Ввод-вывод, Socket, SQl, JDBC, GC, TDD, SOLID, Threads, Servlet, Hibernate, Spring
+Lambda, Stream API, Collections, IO, Socket, SQl, JDBC, GC, TDD, SOLID, Threads, Servlet, Hibernate, Spring
 
 **Проекты**
 <br>[render_test_task](https://github.com/ArvikVan/farmrender) - (Maven, Spring(boot, security), PostgrsQL/Liquibase)
