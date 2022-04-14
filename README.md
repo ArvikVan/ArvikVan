@@ -11,6 +11,7 @@ Java developer<br>
 Lambda, Stream API, Collections, IO, Socket, SQl, JDBC, GC, TDD, SOLID, Threads, Servlet, Hibernate, Spring
 
 **Проекты**
+<br>[tr-project](https://github.com/ArvikVan/eureka-server) - (Gradle, Spring(boot, security, cloud), PostgresQL) требует доработки
 <br>[mgstest](https://github.com/ArvikVan/mgstest) - (Gradle, Spring(boot), WebSocket)
 <br>[render_test_task](https://github.com/ArvikVan/farmrender) - (Maven, Spring(boot, security), PostgresQL/Liquibase)
 <br>[rest_client-demo](https://github.com/ArvikVan/restex) - (Maven, Spring, REST, PostgresQL, Tomcat)
