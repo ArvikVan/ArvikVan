@@ -4,9 +4,10 @@ Java developer<br>
 Со всеми выполненными проектами, а так же качеством кода вы можете ознакомиться в моем github аккаунте
 
 **Проекты**
-<br>[tr-project](https://github.com/ArvikVan/eureka-server) - (Gradle, Spring(boot, security, cloud), PostgresQL)
-<br>[mgstest](https://github.com/ArvikVan/mgstest) - (Gradle, Spring(boot), WebSocket)
-<br>[render_test_task](https://github.com/ArvikVan/farmrender) - (Maven, Spring(boot, security), PostgresQL/Liquibase)
+<br>[test-api-jwt](https://github.com/ArvikVan/apiJTT) - (Gradle, Spring(boot, security), PostgresQL, REST, Postman)
+<br>[test-tr-project](https://github.com/ArvikVan/eureka-server) - (Gradle, Spring(boot, security, cloud), PostgresQL)
+<br>[test-mgs](https://github.com/ArvikVan/mgstest) - (Gradle, Spring(boot), WebSocket)
+<br>[test-render_task](https://github.com/ArvikVan/farmrender) - (Maven, Spring(boot, security), PostgresQL/Liquibase)
 <br>[rest_client-demo](https://github.com/ArvikVan/restex) - (Maven, Spring, REST, PostgresQL, Tomcat)
 <br>[vacancy_list](https://github.com/ArvikVan/job4j_dreamjob) - (Maven, JavaEE, JDBC, PostgresQL, ApacheTomcat)
 <br>[car_accident](https://github.com/ArvikVan/job4j_car_accident) - (Maven, JavaEE/Spring(MVC), Hibernate, PostgresQL, ApacheTomcat)
