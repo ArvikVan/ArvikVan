@@ -4,6 +4,7 @@ Java developer<br>
 Со всеми выполненными проектами, а так же качеством кода вы можете ознакомиться в моем github аккаунте
 
 **Проекты**
+<br>[test-api-jwt-cloud](https://github.com/ArvikVan/testapijwt) - (Gradle, Spring(boot, cloud, security, data), PostgresQL, REST, Postman)
 <br>[test-api-jwt](https://github.com/ArvikVan/apiJTT) - (Gradle, Spring(boot, security), PostgresQL, REST, Postman)
 <br>[test-tr-project](https://github.com/ArvikVan/eureka-server) - (Gradle, Spring(boot, security, cloud), PostgresQL)
 <br>[test-mgs](https://github.com/ArvikVan/mgstest) - (Gradle, Spring(boot), WebSocket)
