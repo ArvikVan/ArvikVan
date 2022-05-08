@@ -29,7 +29,7 @@ Java developer<br>
     Travis CI/GitHub Actions
     Heroku
 
-<img src=https://komarev.com/ghpvc/?username = ArvikVan/>
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/ArvikVan)
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=ArvikVan&show_icons=true&count_private=true">
