@@ -29,7 +29,7 @@ Java developer<br>
     Travis CI/GitHub Actions
     Heroku
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/ArvikVan)
+![Profile views](https://gpvc.arturio.dev/ArvikVan)
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=ArvikVan&show_icons=true&count_private=true">
