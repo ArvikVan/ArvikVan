@@ -30,6 +30,7 @@ Java developer<br>
     Heroku
 
 ![Profile views](https://gpvc.arturio.dev/ArvikVan)
+[![GitHub watchers](https://badgen.net/github/watchers/ArvikVan/Strapdown.js/)](https://GitHub.com/ArvikVan/StrapDown.js/watchers/)
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=ArvikVan&show_icons=true&count_private=true">
