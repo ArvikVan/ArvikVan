@@ -29,6 +29,8 @@ Java developer<br>
     Travis CI/GitHub Actions
     Heroku
 
+<img src=https://komarev.com/ghpvc/?username = ArvikVan/>
+
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=ArvikVan&show_icons=true&count_private=true">
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=ArvikVan&show_icons=true&count_private=true"/></a>
