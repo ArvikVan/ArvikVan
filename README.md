@@ -1,7 +1,9 @@
-### Привет, меня зовут Арвий 
-Java developer<br>
-В процессе изучения выполнено большое количество теоретических и практических задач.
-Со всеми выполненными проектами, а так же качеством кода вы можете ознакомиться в моем github аккаунте
+### Привет, меня зовут Арвий и я Java developer<br>
+[telegram](https://t.me/ArvikV)<br>
+Стек, овладеваю коим на работе: Java 8-11-17, MSSQL SERVER (t-sql соответственно), jenkins, docker, spring(boot, cloud, security, data - реже),
+немного rabbitmq (maven, postman, gradle, rest и все без чего не получится работать) <br>
+Изучал, изучаю и буду изучать жаву. В процессе, выполнено большое количество теоретических, практических и тестовых заданий.
+Со всеми выполненными проектами, а так же качеством кода вы можете ознакомиться здесь
 
 **Проекты**
 <br>[test-api-jwt-cloud](https://github.com/ArvikVan/testapijwt) - (Gradle, Spring(boot, cloud, security, data), PostgresQL, REST, Postman)
